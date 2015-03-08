@@ -7,7 +7,7 @@ git_url: git@github.com:samarpanda/hello_octopress_3  # remote repository url, e
 # If using GitHub project pages, set the branch to 'gh-pages'.
 # For GitHub user/organization pages or Heroku, set the branch to 'master'.
 #
-git_branch: master                        # Git branch where static site files are commited
+git_branch: gh-pages                        # Git branch where static site files are commited
 
 
 # remote_path:                            # Destination directory
