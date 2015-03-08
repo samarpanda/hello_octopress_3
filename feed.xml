@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hello Octopress 3.0</title>
-    <description>Demostrating the use of Octopress 3.0 for blogging. It&#39;s an obsessively designed toolkit for writing and deploying [Jekyll](http://jekyllrb.com/) blogs.
+    <description>Demostrating the use of Octopress 3.0 for blogging. It&#39;s an obsessively designed toolkit for writing and deploying Jekyll blogs.
 </description>
     <link>http://samarpanda.com/hello_octopress_3/</link>
     <atom:link href="http://samarpanda.com/hello_octopress_3/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 08 Mar 2015 23:12:32 +0530</pubDate>
-    <lastBuildDate>Sun, 08 Mar 2015 23:12:32 +0530</lastBuildDate>
+    <pubDate>Sun, 08 Mar 2015 23:15:29 +0530</pubDate>
+    <lastBuildDate>Sun, 08 Mar 2015 23:15:29 +0530</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
